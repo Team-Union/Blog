@@ -94,10 +94,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "팀 유니온"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "팀 유니언"
+  avatar           : "https://avatars.githubusercontent.com/u/79082133?s=200&v=4" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "11개의 팀이 모여 만들어진 초대형 팀은 처음이죠?"
-  location         : "한국"
+  location         : "Korea"
   email            :
   links:
     - label: "GitHub"
