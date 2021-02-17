@@ -19,13 +19,13 @@ locale                   : "ko-kr"
 title                    : "Team Union Official Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "유니온"
+name                     : "Team Union"
 description              : "11개의 팀이 모여 만든 Team Union의 공식 블로그입니다!"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "https://avatars.githubusercontent.com/u/79082133?s=200&v=4"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
